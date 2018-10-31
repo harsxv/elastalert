@@ -1168,7 +1168,7 @@ versus
          from_addr: "no-reply@example.com"
          email: "customer@example.com"
      - email:
-         from_addr: "elastalert@example.com""
+         from_addr: "elastalert@example.com"
          email: "devs@example.com"
 
 If multiple of the same alerter type are used, top level settings will be used as the default and inline settings will override those
